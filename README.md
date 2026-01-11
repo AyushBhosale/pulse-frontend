@@ -2,7 +2,7 @@
 
 Pulse is a video analysis platform built with React.js that automatically detects and flags inappropriate content. It leverages Google Cloud Platform for processing and stores flagged data for review.
 
-**Live Demo:** [pulse-frontend-khaki.vercel.app](https://pulse-frontend-khaki.vercel.app/)
+**Live Demo:** [pulse](https://pulse-frontend-khaki.vercel.app/)
 
 ---
 
